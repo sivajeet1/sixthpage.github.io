@@ -1,0 +1,19 @@
+p {
+  color: yellow;
+  width: 1270px;
+  
+  font-size: 40px;
+  font-family: 'Freckle Face', cursive;
+  text-align: center;
+}
+h1 {
+  color: red;
+  width: 1270px;
+  
+  font-size: 60px;
+  font-family: 'Freckle Face', cursive;
+  text-align: center;
+}
+html {
+  background-color: #000000;
+}
